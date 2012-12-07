@@ -1,0 +1,7 @@
+#Scite backup
+*~
+
+#vim swap
+*.swp
+
+*.class
